@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="close">Tutup</string>
+    <string name="pick_image">Pilih image</string>
+    <string name="take_image">Ambil image</string>
+    <string name="classification">Klasifikasi</string>
+    <string name="live_detection">Deteksi langsung</string>
+    <string name="select_classification">Pilih klasifikasi</string>
+
+</resources>
